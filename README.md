@@ -1,4 +1,4 @@
-# Lumen Route List Display
+# Lumen 7 Update - All credits to Sohel Amin - Lumen Route List Display
 
 [![License](https://poser.pugx.org/appzcoder/lumen-routes-list/license.svg)](https://packagist.org/packages/appzcoder/lumen-routes-list)
 
