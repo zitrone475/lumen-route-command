@@ -1,8 +1,5 @@
 # Lumen Route List Display
 
-[![Total Downloads](https://poser.pugx.org/appzcoder/lumen-routes-list/d/total.svg)](https://packagist.org/packages/appzcoder/lumen-routes-list)
-[![Latest Stable Version](https://poser.pugx.org/appzcoder/lumen-routes-list/v/stable.svg)](https://packagist.org/packages/appzcoder/lumen-routes-list)
-[![Latest Unstable Version](https://poser.pugx.org/appzcoder/lumen-routes-list/v/unstable.svg)](https://packagist.org/packages/appzcoder/lumen-routes-list)
 [![License](https://poser.pugx.org/appzcoder/lumen-routes-list/license.svg)](https://packagist.org/packages/appzcoder/lumen-routes-list)
 
 
