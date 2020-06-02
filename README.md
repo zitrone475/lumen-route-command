@@ -7,7 +7,7 @@
 
 1. Run
     ```
-    composer require appzcoder/lumen-routes-list
+    composer require zitrone475/lumen-routes-command
     ```
 
 2. Add service provider into **/bootstrap/app.php** file.
